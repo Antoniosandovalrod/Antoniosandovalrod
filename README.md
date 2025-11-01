@@ -41,8 +41,8 @@
 ---
 
 ## 📊 Mi progreso en GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRodriguez04&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodriguez04&layout=compact&theme=tokyonight)  
 
 ---
 
