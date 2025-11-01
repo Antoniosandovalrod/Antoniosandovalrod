@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/sZ0RjYv.gif" width="200px" alt="developer-gif">
 
 ---
 
@@ -66,6 +65,5 @@
 🚀 Convertirme en un *ingeniero en sistemas tuani*, con visión, carácter y mentalidad ganadora.  
 💻 *No solo programar... sino crear el futuro con cada línea de código.*  
 
-<img src="https://i.imgur.com/fY6t4Zp.gif" width="250px" alt="coding-gif">
 
 </div>
