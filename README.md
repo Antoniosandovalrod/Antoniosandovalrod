@@ -1,48 +1,48 @@
 <div align="center">
 
-![Estudiante](https://img.shields.io/badge/🎓-Estudiante%20de%20Ingeniería%20en%20Sistemas-blue)
-![Tecnología](https://img.shields.io/badge/💻-Apasionado%20por%20la%20Tecnología-brightgreen)
-![Programación](https://img.shields.io/badge/⚙️-Aprendiendo%20Programación-orange)
-![Creativo](https://img.shields.io/badge/🚀-Innovador%20y%20Curioso-lightblue)
-![Actitud](https://img.shields.io/badge/🔥-Disciplina%20y%20Constancia-red)
+![Estudiante](https://img.shields.io/badge/🎓-Ingeniería%20en%20Sistemas-blue)
+![TechLover](https://img.shields.io/badge/💻-Amante%20de%20la%20Tecnología-brightgreen)
+![CodeLife](https://img.shields.io/badge/⚙️-Aprendiendo%20Programación-orange)
+![Visionario](https://img.shields.io/badge/🚀-Pensamiento%20Innovador-lightblue)
+![Actitud](https://img.shields.io/badge/🔥-Disciplina%20y%20Actitud%20Tuani-red)
 
 ---
 
-# 👋 ¡Hola, soy *Daniel Antonio Rodríguez Sandoval*!
+# 👋 ¡Qué onda! Soy **Daniel Antonio Rodríguez Sandoval** 🚀
 
 </div>
 
 ## 👨‍💻 Sobre mí  
-- 🎓 *Estudiante de Ingeniería en Sistemas*.  
-- 💻 Apasionado por la *tecnología, la innovación y el aprendizaje constante*.  
-- ⚙️ Me gusta *explorar la programación* y entender cómo funcionan las cosas desde dentro.  
-- 🌍 Sueño con *crear soluciones tecnológicas* que ayuden a las personas y transformen el mundo digital.  
-- ☕ Me motiva la *curiosidad* y el *deseo de mejorar cada día*.  
+- 🎓 *Estudiante de Ingeniería en Sistemas*, enfocado en crecer y crear.  
+- 💡 Me apasiona la *tecnología*, el *código* y todo lo que me rete a pensar diferente.  
+- ⚙️ Siempre busco aprender algo nuevo, experimentar y mejorar mis habilidades.  
+- 🌍 Sueño con desarrollar proyectos que impacten y lleven la innovación al siguiente nivel.  
+- 💪 Creo firmemente que *la disciplina vence al talento cuando el talento no se disciplina*.  
 
 ---
 
 <div align="center">
 
 ## 🚀 Proyectos  
-🚧 *En construcción... pero pronto verás mis primeros proyectos aquí 😎*  
+💭 *Todavía no tengo repos tops... pero ando cocinando cosas buenas 🔥*  
 
 ---
 
-## 📬 ¡Contáctame!  
+## 📬 Contacto directo  
 💬 **[WhatsApp](https://wa.me/50577415314)**  
 
 ---
 
-## 🌟 Un poco más de mí  
-> “La tecnología no solo cambia el mundo, también cambia la forma en que pensamos.” 💡  
+## 🌟 Frase que me mueve  
+> “No hay límites cuando la mente y el corazón están sincronizados con el objetivo.” 💯  
 
-💻 *Sigo aprendiendo, creando y soñando en grande.* 🚀  
+⚡ *Aprendiendo. Construyendo. Dejando huella.* ⚡  
 
 ---
 
 ## 📊 Mi progreso en GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRodriguez04&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodriguez04&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielRodriguez04&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodriguez04&layout=compact&theme=radical&hide_border=true)  
 
 ---
 
@@ -51,10 +51,12 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 ---
 
-## 🎯 Objetivo personal  
-Convertirme en un *profesional en tecnología* que combine *conocimiento, pasión y creatividad* para desarrollar proyectos que generen un impacto positivo. 💻✨  
+## 🎯 Meta Personal  
+🚀 Ser un *ingeniero en sistemas tuani*, que mezcle *tecnología, visión y carácter* para crear cosas grandes.  
+💻 *No se trata solo de programar, sino de construir el futuro.*  
 
 </div>
